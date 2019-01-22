@@ -1,0 +1,5 @@
+# Ignorar os executáveis
+bin/
+
+# Ignorar os ficheiros de objeto e dependencias
+obj/
